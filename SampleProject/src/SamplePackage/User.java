@@ -1,10 +1,10 @@
 package SamplePackage;
 
 public class User {
-	// 나는 Developer_A
+	// 나는 Developer_B - 충돌 해결
+	String name;
 	String id;
 	String password;
-	String name;
 	int age;
-	String adress;
+	String email;
 }
